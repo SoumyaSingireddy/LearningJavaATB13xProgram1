@@ -4,6 +4,7 @@ public class Lab021_Char_Literal {
     public static void main(String[] args) {
         char c1 = 'A' ;
         char c2 = 'B' ;
+        char c3 = 'C';
 
 
         //Escape char
